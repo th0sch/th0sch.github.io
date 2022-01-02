@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://th0sch.de/</loc>
+    <loc>http://th0sch.github.io/</loc>
     <lastmod>2022-01-02T17:26:58+01:00</lastmod>
   </url><url>
-    <loc>http://th0sch.de/posts/</loc>
+    <loc>http://th0sch.github.io/posts/</loc>
     <lastmod>2022-01-02T17:26:58+01:00</lastmod>
   </url><url>
-    <loc>http://th0sch.de/posts/second-post/</loc>
+    <loc>http://th0sch.github.io/posts/second-post/</loc>
     <lastmod>2022-01-02T17:26:58+01:00</lastmod>
   </url><url>
-    <loc>http://th0sch.de/posts/my-first-post/</loc>
+    <loc>http://th0sch.github.io/posts/my-first-post/</loc>
     <lastmod>2022-01-02T17:18:08+01:00</lastmod>
   </url><url>
-    <loc>http://th0sch.de/categories/</loc>
+    <loc>http://th0sch.github.io/categories/</loc>
   </url><url>
-    <loc>http://th0sch.de/tags/</loc>
+    <loc>http://th0sch.github.io/tags/</loc>
   </url>
 </urlset>
